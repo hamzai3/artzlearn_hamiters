@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "943388088482",
+    "firebase_url": "https://doubledec-a0f41.firebaseio.com",
+    "project_id": "doubledec-a0f41",
+    "storage_bucket": "doubledec-a0f41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943388088482:android:31baaaf7b78ecf5298dffb",
+        "android_client_info": {
+          "package_name": "com.hamiters.doubledec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943388088482-6t99s821h2gogn8bq5me478f1t87mt9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hamiters.doubledec",
+            "certificate_hash": "213b140aad709b0ce0467c60095e9a9ab46ec904"
+          }
+        },
+        {
+          "client_id": "943388088482-spoh8703vucvjjk8arirb54btia2e9mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA66PzxTzDurr7DgtxN2pII8c8XArVCRlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943388088482-spoh8703vucvjjk8arirb54btia2e9mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
